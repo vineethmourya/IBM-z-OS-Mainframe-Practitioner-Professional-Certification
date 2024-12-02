@@ -1,0 +1,20 @@
+TIME NEEDED: 1 MONTH @ 10 HRS A WEEK.
+
+The skills acquired on completion of this Professional Certificate allows the learner to pursue a career as a mainframe application developer, system programmer, system administrator, or a DBA Practitioner. 
+
+
+There are three courses in this specialisation, please be sure to complete all three in order to maximise your time and effort.
+
+Course 1: Introduction to Enterprise Computing (9 HOURS)
+		MODULE 1:
+			Course Introduction
+			Introduction to Mainframe Architecture
+			Virtualization
+			Introduction to z/OS
+			Week 1 Quiz
+		MODULE 2:
+		MODULE 3:
+
+Course 2 : Getting Started on Mainframe with z/OS Commands and Panels (15 HOURS)
+
+Course 3 : Basic System Programming on IBM Z (18 HOURS)
